@@ -1,0 +1,10 @@
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\bin\Debug\graph1k.txt
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\bin\Debug\Lab1Graphs.exe.config
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\bin\Debug\Lab1Graphs.exe
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\bin\Debug\Lab1Graphs.pdb
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\obj\Debug\Lab1Graphs.csprojAssemblyReference.cache
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\obj\Debug\Lab1Graphs.csproj.CoreCompileInputs.cache
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\obj\Debug\Lab1Graphs.exe
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\obj\Debug\Lab1Graphs.pdb
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\bin\Debug\graph10k.txt
+C:\DATA\UBB\GRAPHS\lab1\csh\Lab1Graphs\bin\Debug\graph1m.txt
